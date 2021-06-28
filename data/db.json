@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "My first blog",
+      "body": "Why do we use it?\n Cras sit amet eros ex. Praesent eget est id nisl gravida egestas. Vivamus pulvinar faucibus quam vel sodales. Donec fermentum finibus faucibus. Integer vel nibh vitae velit sollicitudin consectetur. Donec id lacus non ligula condimentum vulputate sed in orci. Suspendisse placerat id elit eget elementum. Phasellus imperdiet quis est vitae venenatis. Suspendisse consequat nunc ut tortor elementum, vel gravida quam accumsan. In id finibus libero. Integer sodales sagittis condimentum. Quisque porttitor sem quis eros euismod, et tincidunt elit fringilla. Vestibulum facilisis diam in scelerisque maximus. Sed id interdum ante. Proin nec odio turpis. In sed convallis eros, id fringilla sapien.",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "My Second blog",
+      "body": "Why do we use it?\n Donec ac libero sapien. Fusce tincidunt posuere ornare. Cras aliquam magna nec egestas efficitur. Quisque sit amet rhoncus lacus, eu maximus sapien. Aliquam pellentesque rhoncus volutpat. Nulla mauris elit, malesuada a eros ut, aliquam aliquam lacus. Sed tristique erat ut egestas sagittis. Pellentesque malesuada volutpat enim, quis rutrum augue.",
+      "author": "yoshi",
+      "id": 2
+    }
+  ]
+}
